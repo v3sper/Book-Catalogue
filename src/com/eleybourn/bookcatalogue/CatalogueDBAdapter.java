@@ -227,7 +227,7 @@ public class CatalogueDBAdapter {
 	
 	private static final String DATABASE_CREATE_BOOKSHELF_DATA =
 		"INSERT INTO " + DB_TB_BOOKSHELF + 
-		" (" + KEY_BOOKSHELF + ") VALUES ('Default')";
+		" (" + KEY_BOOKSHELF + ") VALUES ('" + BookCatalogueApp.context.getResources().getString(R.string.default_bookshelf_name) + "')";
 
 	// Renamed to the LAST version in which it was used
 	private static final String DATABASE_CREATE_BOOKS_81 =

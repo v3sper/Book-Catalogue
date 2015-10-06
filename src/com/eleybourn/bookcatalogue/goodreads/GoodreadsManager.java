@@ -59,6 +59,7 @@ import com.eleybourn.bookcatalogue.BookCatalogueApp;
 import com.eleybourn.bookcatalogue.BookCataloguePreferences;
 import com.eleybourn.bookcatalogue.BooksRowView;
 import com.eleybourn.bookcatalogue.CatalogueDBAdapter;
+import com.eleybourn.bookcatalogue.R;
 import com.eleybourn.bookcatalogue.goodreads.GoodreadsManager.Exceptions.BookNotFoundException;
 import com.eleybourn.bookcatalogue.goodreads.GoodreadsManager.Exceptions.NetworkException;
 import com.eleybourn.bookcatalogue.goodreads.GoodreadsManager.Exceptions.NotAuthorizedException;
@@ -785,7 +786,7 @@ public class GoodreadsManager {
 			 */
 			if (reviewId == 0) {
 				try {
-					reviewId = this.addBookToShelf("Default", grId);
+					reviewId = this.addBookToShelf(BookCatalogueApp.context.getResources().getString(R.string.default_bookshelf_name), grId);
 				} catch (Exception e) {
 					return ExportDisposition.error;
 				}				
