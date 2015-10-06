@@ -270,4 +270,5 @@ Jeśli przerwiesz, możesz ponownie wywołać tę funkcję w opcjach administrac
     <string name="my_books">Moje książki</string>
     <string name="admin_and_prefs">Administracja i ustawienia</string>
     <string name="dash_or_dash">- lub -</string>
+    <string name="default_bookshelf_name">Domyślna</string>
 </resources>
