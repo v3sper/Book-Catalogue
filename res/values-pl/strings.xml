@@ -142,7 +142,7 @@
 <string name="searching_google_books">Przeszukiwanie Google Books</string>
 <string name="searching_library_thing">Przeszukiwanie LibraryThing</string>
 <string name="bookshelf_title">Wybierz półki dla tej ksiązki</string>
-<string name="bookshelves">Wybierz półki</string>
+<string name="bookshelves">Półki</string>
 <string name="format">Format</string>
 <string name="format1">Miękka okładka</string>
 <string name="format2">Twarda okładka</string>
@@ -288,4 +288,20 @@ Jeśli przerwiesz, możesz ponownie wywołać tę funkcję w opcjach administrac
     <string name="advanced_options">Ustawienia zaawansowane</string>
     <string name="amazon">Amazon</string>
     <string name="amazon_books_in_series">Książki w tej serii</string>
+    <string name="do_not_show_again">Nie pokazuj więcej</string>
+    <string name="hint">Podpowiedź</string>
+    <string name="details">Szczegóły</string>
+    <string name="language">Język</string>
+    <string name="edit_lc_ellipsis">edytuj&#8230;</string>
+    <string name="location_of_book">Lokalizacja książki</string>
+    <string name="year">Rok</string>
+    <string name="month">Miesiąc</string>
+    <string name="day">Dzień</string>
+    <string name="select_bookshelves">Wybierz półki</string>
+    <string name="by">%1$s</string>
+    <string name="book_details_readonly_pages">%1$s stron</string>
+    <string name="book_details_readonly_publishing">Wydawnictwo</string>
+    <string name="menu_share_this">Udostępnij</string>
+    <string name="loan">Wypożyczenie</string>
+    <string name="amazon_books_by_author_in_series">Książki autor/serii</string>
 </resources>
