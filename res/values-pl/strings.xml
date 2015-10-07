@@ -271,10 +271,8 @@ Jeśli przerwiesz, możesz ponownie wywołać tę funkcję w opcjach administrac
     <string name="admin_and_prefs">Administracja i ustawienia</string>
     <string name="dash_or_dash">- lub -</string>
     <string name="default_bookshelf_name">Domyślna</string>
-    <string name="sort_author_series">Autor potem seria</string>
     <string name="displaying_n_books_in_m_entries">Wyświetlanie %1$s książek z %2$s wpisów</string>
     <string name="displaying_n_books">Wyświetlanie %1$s książek</string>
-    <string name="sort_and_style_ellipsis">Sortowanie i wygląd&#8230;</string>
     <string name="edit_book_send_to_gr">Wyślij do goodreads</string>
     <string name="amazon_books_by_author">Książki tego autora</string>
     <string name="a_comma_b">%1$s, %2$s</string>
@@ -304,4 +302,19 @@ Jeśli przerwiesz, możesz ponownie wywołać tę funkcję w opcjach administrac
     <string name="menu_share_this">Udostępnij</string>
     <string name="loan">Wypożyczenie</string>
     <string name="amazon_books_by_author_in_series">Książki autor/serii</string>
+    <string name="sort_and_style_ellipsis">Sortowanie i wygląd&#8230;</string>
+    <string name="sort_author_series">Autor potem seria</string>
+    <string name="sort_unread">Nieprzeczytane (Autor/Seria)</string>
+    <string name="sort_title_first_letter">Pierwsza litera tytułu</string>
+    <string name="sort_series">Seria</string>
+    <string name="sort_loaned">Pożyczone</string>
+    <string name="sort_read_and_unread">Przeczytane i nieprzeczytane</string>
+    <string name="sort_publication_date">Data publikacji</string>
+    <string name="sort_added_date">Data dodania</string>
+    <string name="sort_author_year">Autor i rok</string>
+    <string name="sort_read_date">Data przeczytania</string>
+    <string name="update_date">Data aktualizacji</string>
+    <string name="show_more_ellipsis">Więcej&#8230;</string>
+    <string name="show_fewer_ellipsis">Mniej&#8230;</string>
+    <string name="customize_ellipsis">Dostosuj&#8230;</string>
 </resources>
