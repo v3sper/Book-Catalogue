@@ -400,4 +400,10 @@ Jeśli przerwiesz, możesz ponownie wywołać tę funkcję w opcjach administrac
     <string name="preferred_scanner">Preferowany skaner</string>
     <string name="beep_if_scanned_isbn_valid">Powiadom dzwiękowo, jeśli ISBN jest poprawny</string>
     <string name="beep_if_scanned_isbn_invalid">Powiadom dzwiękowo, jeśli ISBN jest niepoprawny</string>
+    <string name="compact">Zwarty</string>
+    <string name="sort_genre">Gatunek</string>
+    <string name="select_style">Wybierz format wyświetlania</string>
+    <string name="adding_book_elipsis">Dodaję książkę&#8230;</string>
+    <string name="amazon_books">Amazon</string>
+    <string name="use_default_setting">Użyj domyślnych ustawień</string>
 </resources>
